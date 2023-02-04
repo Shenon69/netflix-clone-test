@@ -1,2 +1,3 @@
 # netflix-clone-test
-This uses Firebase , Redux and stripe
+This uses React.js, frebase and redux
+
